@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  font-size: 20px;
+  color: #690b22;
+  background-color: #f54e20;
+}
+button {
+  color: #f1e3d3;
+  background-color: #1b4d3e;
+  font-size: medium;
+  font-weight: bolder;
+  font-style: normal;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.container {
+  background-color: #f1e3d3;
+  padding: 50px;
+}
+#resetBtn {
+  display: none;
+}
